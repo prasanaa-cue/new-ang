@@ -15,7 +15,7 @@ function dashboardService($http) {
 
         return userList = {
             "userDetails": [{
-                "id": 1,
+                "id": 7,
                 "name": "Prasanna",
                 "department": "Developer",
                 "salary": 1000,
